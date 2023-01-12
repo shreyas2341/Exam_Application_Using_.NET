@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\.Net Practical Exam\Exam-Application\bin\Debug\Exam-Application.exe.config
+C:\Users\Lenovo\Desktop\.Net Practical Exam\Exam-Application\bin\Debug\Exam-Application.exe
+C:\Users\Lenovo\Desktop\.Net Practical Exam\Exam-Application\bin\Debug\Exam-Application.pdb
+C:\Users\Lenovo\Desktop\.Net Practical Exam\Exam-Application\obj\Debug\Exam-Application.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\.Net Practical Exam\Exam-Application\obj\Debug\Exam-Application.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\.Net Practical Exam\Exam-Application\obj\Debug\Exam_Application.Form1.resources
+C:\Users\Lenovo\Desktop\.Net Practical Exam\Exam-Application\obj\Debug\Exam_Application.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\.Net Practical Exam\Exam-Application\obj\Debug\Exam-Application.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\.Net Practical Exam\Exam-Application\obj\Debug\Exam-Application.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\.Net Practical Exam\Exam-Application\obj\Debug\Exam-Application.exe
+C:\Users\Lenovo\Desktop\.Net Practical Exam\Exam-Application\obj\Debug\Exam-Application.pdb
